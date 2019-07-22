@@ -2,10 +2,10 @@
 
 #### Predicting Traffic-Signal Images via Deep CNN
  ---
-#### Visit the PDF for more insights [PDF-Link](https://github.com/guptasoumya26/Traffic-Image-Classification-LE-NET-Classifier-Deep-CNN/blob/master/LE_NET.pdf)
+#### Visit the PDF for more insights [PDF-Link](https://github.com/guptasoumya26/Traffic-Image-Classification-LE-NET-Classifier-Deep-CNN-/raw/master/LE_NET.pdf)
  ---
 #### Visualization
-<img src="https://raw.githubusercontent.com/guptasoumya26/Traffic-Image-Classification-LE-NET-Classifier-Deep-CNN/master/Images/Cap1.PNG" alt="img-1"/>
+<img src="https://raw.githubusercontent.com/guptasoumya26/Traffic-Image-Classification-LE-NET-Classifier-Deep-CNN-/master/Images/Cap1.png" alt="img-1"/>
 
  ---
  ### Contributors
